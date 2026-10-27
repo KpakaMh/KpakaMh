@@ -1,6 +1,6 @@
 # Hi there, I'm Kpaka Mouhamadou Adesanya 👋
 
-🎓 **Étudiant en M1 Bio-informatique, Biostatistique & Biologie Systémique**  
+🎓 **Étudiant en Master  ingénierie de santé, Génie physiologique, Biotechnologique et Informatique**  
 🎯 **Recherche :** Stage de fin d'année (4-5 mois) / Alternance en industrie pharmaceutique ou recherche biomédicale.
 
 > *"Développement logiciel, data science et modélisation au service de la biologie et de la santé."*
