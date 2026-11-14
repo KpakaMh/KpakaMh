@@ -2,7 +2,7 @@
 
 **Computational Biology | Biotechnology | Scientific Programming**
 
-- 🎓 Master's student in Physiological, Biotechnological and Computer Engineering at the **University of Poitiers**, France.
+- 🎓 Master's student in Physiological, Biotechnological and Informatics at the **University of Poitiers**, France.
 - 🔬 Interested in computational biology, bioinformatics, omics data analysis, and quantitative approaches applied to biological and biomedical research.
 - 🎯 Currently seeking a **6-month internship starting in May 2027** in bioinformatics, computational biology, biotechnology, or pharmaceutical R&D.
 
